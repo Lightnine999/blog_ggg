@@ -5,8 +5,7 @@ categories: [Claude_code, 기초]
 tags: [aiffel, 시작]
 ---
 
-AIFFEL 학습 기록을 정리할 블로그를 시작합니다. Claude Code와 함께 Jekyll + Chirpy 테마로
-블로그를 만든 과정을 정리해봅니다.
+Claude Code와 함께 Jekyll + Chirpy 테마로 블로그를 만든 과정을 정리해봅니다.
 
 ## 블로그 제작 과정
 
