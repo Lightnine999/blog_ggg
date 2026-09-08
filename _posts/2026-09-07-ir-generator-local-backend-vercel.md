@@ -1,6 +1,6 @@
 ---
 title: 무료 Codex CLI를 지키면서 Vercel에 배포하기
-date: 2026-09-08 21:00:00 +0900
+date: 2026-09-07 21:00:00 +0900
 categories: [TypeScript, 프로젝트]
 tags: [aiffel, nextjs, supabase, vercel, rls, cloudflare-tunnel, codex-cli]
 ---
