@@ -1,6 +1,6 @@
 ---
 title: 바이브코딩으로 하루 만에 MVP 한 바퀴 돌렸다
-date: 2026-09-13 22:50:00 +0900
+date: 2026-09-13 22:38:49 +0900
 categories: [Claude_code, 프로젝트]
 tags: [babytime, 바이브코딩, mvp, nextjs, supabase, vercel]
 ---
