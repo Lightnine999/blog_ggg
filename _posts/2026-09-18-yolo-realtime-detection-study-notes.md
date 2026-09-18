@@ -6,7 +6,7 @@ tags: [aiffel, yolo, opencv, uv, 실시간탐지, 학습정리]
 ---
 
 `realtime_detect.py`를 만들고 돌려보면서 다룬 개념들을 정리한다. 어제 쓴
-[카메라 권한 트러블슈팅 글](/posts/yolo-webcam-camera-permission)이 "무엇이
+[카메라 권한 트러블슈팅 글]({% post_url 2026-09-18-yolo-webcam-camera-permission %})이 "무엇이
 문제였나"였다면, 이 글은 "그 프로그램이 어떤 원리로 동작하는가"에 가깝다.
 
 ## 만든 것
