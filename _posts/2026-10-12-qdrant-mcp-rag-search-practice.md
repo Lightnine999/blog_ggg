@@ -6,6 +6,9 @@ tags: [mcp, harness, tool-calling, qdrant, rag, embedding]
 description: "남이 만든 MCP 서버(Qdrant RAG)를 Claude Code에 붙여, 모델·하네스·도구 정의서가 실제로 어떻게 움직이는지 관찰한 실습 기록입니다."
 ---
 
+> 아직 완전히 이해하지 못한 상태에서 우선 내용을 정리해 둔 글입니다. 학습이 더 쌓인 뒤 다시 읽어 보기 위해 작성했습니다.
+{: .prompt-info }
+
 ## 이 글의 위치
 
 노드 주제: **LLM이 하네스를 통해 도구를 쓰는 방법, 그리고 그 통로인 MCP를 어떻게 정의하고 다루는가.**
