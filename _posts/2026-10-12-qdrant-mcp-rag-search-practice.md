@@ -244,16 +244,6 @@ Claude Code 문서의 점검 순서: 프로젝트 `.mcp.json` 서버는 **한 �
 
 ---
 
-## 8. 아직 안 한 것: Opencode 실험
-
-노드 5장의 Opencode 실험은 아직 하지 않았다. 해볼 때 확인할 점이 있다.
-
-노드의 `opencode.json` 환경변수 이름은 `QDRANT_COLLECTION`, `EMBEDDER_PROVIDER`, `FASTEMBED_MODEL`이다. 그런데 서버 코드(`settings.py`)가 읽는 이름은 `COLLECTION_NAME`, `EMBEDDING_PROVIDER`, `EMBEDDING_MODEL`이다.
-
-코드대로라면 노드 이름의 세 변수는 **무시되고 기본값이 쓰인다.** 그러면 기본 컬렉션이 없으니 `collection_name` 인자가 나타나고, 모델은 `all-MiniLM-L6-v2`가 된다. 실제로 실행해서 확인해 볼 부분이다.
-
----
-
 ## 정리
 
 - 모델은 도구 이름과 인자만 쓴다. 실행은 하네스(Claude Code)가, 기능은 MCP 서버가 맡는다.
