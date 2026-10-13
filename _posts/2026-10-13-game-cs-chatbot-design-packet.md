@@ -9,7 +9,10 @@ description: "서비스 가이드 챗봇 설계 과제를 Claude Code와 함께 
 이 글은 노드 7장 과제 "서비스 가이드 챗봇 설계"를 Claude Code(Claude)와 함께 진행한 기록이다. 방향과 선택은 내가 정했고, 후보 제안·문서 작성·실행·커밋은 Claude가 했다.
 
 - 제출 저장소: [Lightnine999/my-service-agent](https://github.com/Lightnine999/my-service-agent)
+- 근원지(실습 원본): aiffel_work 저장소의 [`get_inventory_tool`](https://github.com/Lightnine999/aiffel_work/tree/main/get_inventory_tool)(재고 조회 하네스 실습), [`qdrant_rag_test`](https://github.com/Lightnine999/aiffel_work/tree/main/qdrant_rag_test)(Qdrant MCP 실습)
 - 앞 실습 글: [Qdrant MCP로 보는 도구 호출 구조]({% post_url 2026-10-12-qdrant-mcp-rag-search-practice %})
+
+제출 저장소의 `my-agent/`(도구 정의서, 트레이스)는 `get_inventory_tool`에서 옮겨 온 것이고, `origin-tests/`는 두 실습 폴더의 테스트를 다시 실행한 기록이다. 재고 실습의 실행 스크립트와 트레이스 원본은 `get_inventory_tool`에 있다.
 
 ## 과제 구조
 
